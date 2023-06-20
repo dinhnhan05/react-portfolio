@@ -1,7 +1,7 @@
 import { m, LazyMotion, domAnimation } from "framer-motion";
 
 const HeroText = () => {
-  const name = "Valeriu";
+  const name = "DinhNhan";
 
   return (
     <div
@@ -53,7 +53,7 @@ const HeroText = () => {
           style={{ fontFamily: "Morganite Extra Bold, sans-serif" }}
         >
         <a href="#about">
-          <span className="text-primary-400">Front-end</span> Developer
+          <span className="text-primary-400">Website</span> Developer
         </a>
         </m.span>
       </LazyMotion>
