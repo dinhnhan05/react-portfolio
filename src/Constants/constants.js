@@ -89,7 +89,7 @@ const introduction = {
   text: [
     "Hi there, I'm glad to have you here!",
 
-    "My name is Nhan and I'm 18 years old and from Gia Lai, VietNam I like to learn programming about web design programming..",
+    "My name is Nhan and I'm 18 years old and from Gia Lai, VietNam I like to learn programming about web design programming.."
 
       ],
 };
