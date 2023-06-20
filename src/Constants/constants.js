@@ -89,12 +89,9 @@ const introduction = {
   text: [
     "Hi there, I'm glad to have you here!",
 
-    "My name is Valeriu and I am a front-end developer based in Italy. My passion for web development started in April 2022 when I began building Shopify stores.",
+    "My name is Nhan and I'm 18 years old and from Gia Lai, VietNam I like to learn programming about web design programming..",
 
-    "Since then, I have been constantly advancing and expanding my knowledge in this field. In October 2022, I felt the urge to dive deeper into web development which led me to learn how to code in html, css, js and reactjs. With each project, I strive to create a unique and effective solution while integrating the latest web technologies.",
-
-    "I am always excited to collaborate with individuals and teams who share my passion for creating exceptional web experiences. Thank you for taking the time to visit my portfolio!",
-  ],
+      ],
 };
 
 const journeys = [
